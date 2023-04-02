@@ -1,0 +1,38 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    border-radius: 150px;
+}
+
+.card: hover{
+   background: yellow; 
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #4d4dff;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+    border-radius: 20px;
+    text-shadow: 1px 1px 1px #0000ff;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
